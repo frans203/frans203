@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francisco Santana
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning advanced javascript
 - 💞️ I’m looking to collaborate on a team as a web developer or front-end programmer
 - 📫 How to reach me @santana_203 on instagram
 
