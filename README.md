@@ -3,7 +3,7 @@ Currently focused on creating responsive websites and advanced javascript as wel
 
 Contact me for work or networking at:
 - instagram => @frans203 
-- linkeidn => https://www.linkedin.com/in/francisco-santana-63a958201/
+- linkedin => https://www.linkedin.com/in/francisco-santana-63a958201/
 
 
 <!---
