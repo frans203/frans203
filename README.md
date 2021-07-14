@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Francisco Santana
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning advanced javascript
-- 💞️ I’m looking to collaborate on a team as a web developer or front-end programmer
-- 📫 How to reach me @santana_203 on instagram
+Hi I'm Francisco Santana. Student of web depelopment(HTML, CSS and JAVASCRIPT).
+Currently focused on creating responsive websites and advanced javascript as well as frameworks. 
+
+Contact me for work or networking at:
+- instagram => @frans203 
+- linkeidn => https://www.linkedin.com/in/francisco-santana-63a958201/
+
 
 <!---
 frans203/frans203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
