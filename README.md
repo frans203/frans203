@@ -4,7 +4,7 @@ Currently focused on creating responsive websites and advanced javascript as wel
 
 Contact me for work or networking at:
 <a href="https://www.linkedin.com/in/francisco-santana-63a958201/">
-  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></img> 
   </a>
 
 
