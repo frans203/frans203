@@ -1,4 +1,5 @@
-Hi I'm Francisco Santana,web depelopment  student(HTML, CSS and JAVASCRIPT).
+# Hi, I'm Novak :wave: 
+Web depelopment  student(HTML, CSS and JAVASCRIPT).
 Currently focused on creating responsive websites and advanced javascript as well as frameworks. 
 
 Contact me for work or networking at:
