@@ -1,4 +1,4 @@
-# Hi, I'm Novak :wave: 
+# Hi, I'm Francisco Santana :wave: 
 Web depelopment  student(HTML, CSS and JAVASCRIPT).
 Currently focused on creating responsive websites and advanced javascript as well as frameworks. 
 
