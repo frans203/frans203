@@ -3,10 +3,14 @@ Web depelopment  student(HTML, CSS and JAVASCRIPT).
 Currently focused on creating responsive websites and advanced javascript as well as frameworks. 
 
 Contact me for work or networking at:
+
 <a href="https://www.linkedin.com/in/francisco-santana-63a958201/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></img> 
-  </a>
+ </a>
 
+<a href="https://www.instagram.com/santana_203/?hl=pt-br">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </img>
+ </a>
 
 - instagram => @frans203 
 - linkedin => https://www.linkedin.com/in/francisco-santana-63a958201/
