@@ -13,7 +13,6 @@ Junior Front End Developer
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img> 
  
 
-+creating mega responsive websites
 
 # Contact me for work or networking at:
 
