@@ -11,7 +11,7 @@ Junior Front End Developer
 
 # Currently focused on:
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img> 
- 
+<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img> 
 
 
 # Contact me for work or networking at:
