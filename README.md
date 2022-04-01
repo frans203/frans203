@@ -26,6 +26,10 @@ Junior Front End Developer
 <a href="https://www.instagram.com/santana_203/?hl=pt-br">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </img>
  </a>
+ 
+ <a href="https://www.fsdev.site">
+  <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img>
+ </a>
 
 
 <!---
