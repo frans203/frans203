@@ -40,17 +40,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frans203&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
-</p>
+[![Frans203's GitHub stats](https://github-readme-stats.vercel.app/api?username=frans203&show_icons=true&theme=dark)](https://github.com/frans203)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frans203&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frans203&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frans203&layout=compact&theme=dark)](https://github.com/frans203)
 
 ---
 
