@@ -40,13 +40,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=frans203&show_icons=true&theme=midnight-purple) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frans203&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
