@@ -40,7 +40,11 @@
 
 ### 📊 GitHub Stats
 
-[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=frans203)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frans203&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frans203&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frans203&theme=dark)
 
 ---
 
