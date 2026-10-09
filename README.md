@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">Full-Stack Developer | Cybersecurity Researcher from Brazil 🇧🇷</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at **POD1UM** as Full-Stack Developer
+- 🔭 Currently working at **BK Company** as Full-Stack Developer
 - 🔬 Cybersecurity Researcher at **Federal University of Paraíba (UFPB)**
 - 🌱 Exploring **Distributed Systems, Observability, and Security**
 - 💼 4+ years of experience in **Mobile & Web Development**
-- 🎓 Computer Science student passionate about clean code and secure systems
+- 🎓 Bachaleror Degree in Computer Science 
 
 ---
 
