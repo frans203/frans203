@@ -9,8 +9,8 @@
 - 🔭 Currently working at **BK Company** as Full-Stack Developer
 - 🔬 Cybersecurity Researcher at **Federal University of Paraíba (UFPB)**
 - 🌱 Exploring **Distributed Systems, Observability, and Security**
-- 💼 4+ years of experience in **Mobile & Web Development**
-- 🎓 Bachaleror Degree in Computer Science 
+- 💼 4+ years of experience in **Mobile & Full-Stack Development**
+- 🎓 Bachelor's Degree in Computer Science
 
 ---
 
